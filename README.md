@@ -1,1 +1,1 @@
-<h1> SALOM </h1>
+<h1 style="color: red"> SALOM </h1>
